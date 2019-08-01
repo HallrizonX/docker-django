@@ -21,7 +21,10 @@
         4) docker-compose up
     </li>
     <li>
-        5) Open web browse 127.0.0.1:8000
+        5) sudo chown -R $USER:$USER .
+    </li>
+    <li>
+        6) Open web browse 127.0.0.1:8000
     </li>
 </ul>
 <hr/>
