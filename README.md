@@ -6,8 +6,14 @@
     <li>Docker Compose</li>
 </ul>
 <hr/>
-1)python script.py && docker-compose run web django-admin.py startproject main  .
-2)docker-compose up
+<ul>
+    <li>
+        1)python script.py && docker-compose run web django-admin.py startproject main  .
+    </li>
+    <li>
+        2)docker-compose up
+    </li>
+</ul>
 <hr/>
 
 Local commands
